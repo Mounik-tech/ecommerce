@@ -32,7 +32,7 @@ I have created it with **React** in frontend,  **Node and Express** for backend 
 ## Screenshots
 
 Login Credentials:
-1. Email: admin2023@gmail.com
+1. Email: mounikbiswas2003@gmail.com
 2. Pass: 1234
 
 <img src="./screenshots/ss1.png" alt=""/>
